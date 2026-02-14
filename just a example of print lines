@@ -1,0 +1,12 @@
+public class JenkinsExamples
+{
+
+public static void main (String args[])
+{
+System.out.println("Hello Girllyyyy");
+
+System.out.println("Hi Hugzyy");
+
+
+}
+}
