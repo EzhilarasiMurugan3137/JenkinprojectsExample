@@ -6,8 +6,5 @@ public static void main (String args[])
 System.out.println("Hello Girllyyyy");
 System.out.println("Hi Hugzyy");
 System.out.println("Hi booo");
-System.out.println("Hi baddd");
-
-
 }
 }
